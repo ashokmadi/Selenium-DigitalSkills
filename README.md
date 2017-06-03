@@ -17,4 +17,5 @@ To run this this test,
 4. Save the driver to a path in your machine.
 5. In resources/properties/test.properties, update chrome.driver.path value to the path you have stored in your machine.
 6. Execute the VehicleInformationWebPageTest.java as JUnit Test.
+7. Instead maven clean install can be run on project/pom file.
 
