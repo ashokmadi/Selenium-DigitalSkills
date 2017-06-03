@@ -2,16 +2,15 @@ package ashok.digital.skills.selenium.util;
 
 import static java.lang.String.format;
 
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Properties;
 
-import java.io.FileInputStream;
-import java.io.InputStream;
 /**
- * This class loads properties from a file. 
+ * This class loads properties from a file.
  */
 public class StaticPropertyLoader {
-
 
 	private static Properties props = loadPropertiesFromFile();
 

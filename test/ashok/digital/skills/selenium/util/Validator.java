@@ -18,7 +18,7 @@ public class Validator {
 		} else {
 			throw new RuntimeException("application.url is not available.");
 		}
-		
+
 		return applicationUrl;
 
 	}
