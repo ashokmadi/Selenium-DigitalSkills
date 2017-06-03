@@ -6,12 +6,12 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 
+import ashok.digital.skills.selenium.factory.WebDriverFactory;
 import ashok.digital.skills.selenium.pageobjects.ConfirmVehiclePage;
 import ashok.digital.skills.selenium.pageobjects.GetVehicleInformationPage;
 import ashok.digital.skills.selenium.pageobjects.VehicleEnquiryPage;
 import ashok.digital.skills.selenium.pageobjects.ViewVehiclePage;
 import ashok.digital.skills.selenium.util.PageLoader;
-import ashok.digitial.skills.selenium.factory.WebDriverFactory;
 
 /**
  * This is the Selenium test class to verify the vehicle information for the

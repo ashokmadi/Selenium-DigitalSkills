@@ -1,4 +1,4 @@
-package ashok.digitial.skills.selenium.factory;
+package ashok.digital.skills.selenium.factory;
 
 import static ashok.digital.skills.selenium.util.StaticPropertyLoader.getProperty;
 import static java.util.concurrent.TimeUnit.SECONDS;
@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.safari.SafariDriver;
 
-import ashok.digitial.skills.selenium.browsers.Browsers;
+import ashok.digital.skills.selenium.browsers.Browsers;
 
 public class WebDriverFactory {
 

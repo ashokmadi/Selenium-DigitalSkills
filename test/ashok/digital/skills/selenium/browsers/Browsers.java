@@ -1,4 +1,4 @@
-package ashok.digitial.skills.selenium.browsers;
+package ashok.digital.skills.selenium.browsers;
 
 public enum Browsers {
 
